@@ -7,6 +7,11 @@
 % DATA DA ÚLTIMA MODIFICAÇÃO - 03/06/2020 - 13 h 08 min    
 % -------------------------------------------------------------
 
+% ------------------------------------------- %
+% FIZ UM COMENTARIO SO PRA DAR UM NOVO COMMIT %
+% ------------------------------------------- %
+
+
 % 1. EXPLICAÇÃO
 
 %   Este código tem por objetivo fundamentar os dados iniciais de estimativas
